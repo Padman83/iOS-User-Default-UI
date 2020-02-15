@@ -3,7 +3,7 @@
 # iOS User Default UI
 User Default UI App is written in Swift language for iOS.
 
-![Screenshot 2020-01-31 at 11 08 00 PM](https://user-images.githubusercontent.com/45048950/73608693-0ae65400-4601-11ea-932f-cc34e5c4f6d2.png)
+![Screenshot 2020-02-15 at 11 52 55 PM](https://user-images.githubusercontent.com/45048950/74590968-865af300-504e-11ea-85ac-81f11a4b689c.png)
 
 ### Built With :
 
