@@ -14,13 +14,13 @@ User Default UI App is written in Swift language for iOS Apps.
 
 ## 🛠️ Installation
 
-### Open in Xcode, go to source control -> clone -> enter repository URL.
+#### Open in Xcode, go to source control -> clone -> enter repository URL.
 
 ```
 https://github.com/Padman83/iOS-User-Default-UI.git
 ```
 
-### Or Use the Terminal.
+#### Or Use the Terminal.
 
 ```
 git clone https://github.com/Padman83/iOS-User-Default-UI.git
